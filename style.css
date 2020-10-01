@@ -1,0 +1,68 @@
+body {
+  background:#fff
+  font-family: sans-serif;
+  margin-top:  74px;
+  
+}
+ 
+h3 {
+	text-align: center;
+	font-size: 32px;
+	padding: 29px;
+	background: green;
+	margin: auto;
+	width: 41%;
+	height: 20px;
+	padding: 31px 28px;
+	margin-bottom: 0px;
+}
+.wrapper {
+	width: 45%;
+	margin: auto;
+	background: #7bbd69;
+	padding: 26px 1px;
+	color: #fff;
+}
+.signup {
+	text-align: center;
+	font-size: 25px;
+	margin-top: -3px;
+	padding: 2px;
+}
+
+.same {
+	display: block;
+	margin: auto;
+	margin-top: 13px;
+	width: 44%;
+	padding: 8px 6px;
+	border: none;
+}
+.btn {
+	border-radius: 32px;
+	font-weight: bold;
+	font-size: 21px;
+	width: 38%;
+}
+
+
+.account {
+	text-align: center;
+	font-size: 19px;
+	background: #306f3c;
+	margin-top: 0px;
+	width: 610px;
+	margin: auto;
+	margin-top: -1px;
+	padding: 14px 0px;
+}
+ .create {
+    font-weight: bold;
+    color: #13b992;
+}
+a{
+    text-decoration: none;
+}
+    
+    
+       
